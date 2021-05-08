@@ -1,0 +1,23 @@
+{
+  "name": "node-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "06-alternative-flavor.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhorgupta7/Node-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibhorgupta7/Node-Practice/issues"
+  },
+  "homepage": "https://github.com/vibhorgupta7/Node-Practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
