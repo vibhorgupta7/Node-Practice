@@ -1,4 +1,4 @@
-
+// Using fs module (Sync)
 const { readFileSync, writeFileSync } = require('fs')
 
 const first = readFileSync('content/second.txt','utf8')
